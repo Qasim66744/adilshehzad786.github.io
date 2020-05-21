@@ -68,3 +68,5 @@ Yeah, AWS is hard to learn for the first time but I am sure that this blog helps
 <li class="github" data-balloon="GitHub" data-balloon-pos="right"><a href="http://github.com/{{site.github}}" target="_blank"><i
             class="fab fa-github"></i></a></li>
  
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span></span>

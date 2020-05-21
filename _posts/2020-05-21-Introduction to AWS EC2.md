@@ -20,7 +20,7 @@ Amazon Elastic Compute Cloud or Amazon EC2, a web service that provides secure, 
 
 * AWS Registered Account
 * Operating System With Administrator Control
-* [PuTTYgen]('https://www.puttygen.com/')
+* 	Command Prompt  
 
 ### Creating AWS EC2 :
 

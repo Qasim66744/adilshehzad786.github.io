@@ -20,7 +20,7 @@ Amazon Elastic Compute Cloud or Amazon EC2, a web service that provides secure, 
 
 * AWS Registered Account
 * Operating System With Administrator Control
-* 	Command Prompt  
+* Command Prompt  
 
 ### Creating AWS EC2 :
 
@@ -58,5 +58,13 @@ Watch the video if you have a problem in Creating AWS EC2
 
 Yeah, AWS is hard to learn for the first time but I am sure that this blog helps you to create your first Elastic Computing on Amazon Web Services easily. I am Always Available to Help you out with Webinars, Blogs, and Tutorials. Reach me out on any of these platforms
 
-[Github]('https://github.com/adilshehzad786')
-[Linkedin]('https://www.linkedin.com/in/adilshehzad7/')
+
+ <li class="linkedin" data-balloon="LinkedIn" data-balloon-pos="left"><a href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+  
+
+    
+ 
+
+<li class="github" data-balloon="GitHub" data-balloon-pos="right"><a href="http://github.com/{{site.github}}" target="_blank"><i
+            class="fab fa-github"></i></a></li>
+ 

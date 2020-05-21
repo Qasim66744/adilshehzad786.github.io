@@ -1,0 +1,62 @@
+# Site settings
+title: Adil Shehzad
+description: |
+  Adil Shahzad is currently a third-year student at the University of Central Punjab and Persuading computer science degree. 
+  Adil Shehzad has keen interest in Security, Web Development, Application Development, and Deployment
+  and also interesting in Artificial Intelligence Machine Learning using Python.
+url: adilshehzad.me
+
+about_title: About
+projects_title: Home
+
+# User settings
+user_description_appendix: |
+  I created this site to write about my interests: startups and entrepreneurship, design, data-intensive applications,
+  functional programming, AR/VR, and machine learning. I like to use computers to solve problems.
+
+
+
+  [github]: https://github.com/adilshehzad786
+  [gh-pages]: https://pages.github.com/
+  [jekyll]: https://jekyllrb.com
+
+
+email: muhammadadil@ucp.edu.pk
+linkedin: adilshehzad7
+github: adilshehzad786
+
+
+relevant_tags: ['projects', 'tutorial', 'tech-blog']
+
+resume_url: 
+
+
+author: Adil Shehzad
+author_title: Software Engineer
+author_photo: profile-photo.jpg
+user_description_short: |
+
+
+
+## Disqus
+disqus_identifier: 
+
+## Tracker
+google_analytics_id: 
+
+keywords: 'adilshehzad,adilshahzad , Muhammad Adil Shehzad, Muhammad Adil Shahzad,Amazon Student Ambassador Pakistan,Amazon Student Ambassador,Github Campus Expert'
+
+## URLs
+permalink: ':title/'
+
+baseurl: ''
+projects_url: '/'
+about_url: '/about'
+
+
+plugins:
+  - jekyll-feed
+
+
+include: [_pages]
+exclude: ['package.json', 'src' , 'node_modules', 'Gemfile', 'LICENSE', 'gulpfile.js', 'README.md']

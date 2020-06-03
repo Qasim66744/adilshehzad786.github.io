@@ -1,6 +1,6 @@
 # Adil Shehzad - Personal Website
 
-[Visit the site here.](http://rassaby.com/) 
+[Visit the site here.](https://adilshehzad786.github.io/) 
 
 If you like it, feel free to fork it and make your own version!
 
